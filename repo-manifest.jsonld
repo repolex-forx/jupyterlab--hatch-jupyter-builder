@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyterlab/hatch-jupyter-builder/commit/fedc855da78b965f69a0c6d02e5645adcf2a6fac",
       "git:hexsha": "fedc855da78b965f69a0c6d02e5645adcf2a6fac",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T14:47:52.661260+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyterlab/hatch-jupyter-builder/commit/c84858223ae4f936fe6601bd016d41c7f11fd975",
